@@ -1,0 +1,28 @@
+{
+  "name": "@interailabs/decision-receipts",
+  "version": "0.1.0",
+  "description": "Safe utilities for consuming and verifying InterAI decision evidence.",
+  "type": "module",
+  "main": "./index.mjs",
+  "exports": "./index.mjs",
+  "scripts": {
+    "test": "node --test index.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "Apache-2.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/InterAILabs/decision-receipts.git"
+  },
+  "keywords": [
+    "ai-agents",
+    "receipts",
+    "authorization",
+    "audit",
+    "evidence",
+    "interai"
+  ]
+}
